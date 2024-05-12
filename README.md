@@ -31,7 +31,7 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by: SYED JAVEED H
+Developed by:SYED JAVEED H
 Registeration Number : 212221220055
 */
 ```
@@ -130,7 +130,8 @@ Registeration Number : 212221220055
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## ZOOM.XML
-```<?xml version="1.0" encoding="utf-8"?>
+```
+<?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <scale xmlns:android="http://schemas.android.com/apk/res/android"
         android:fromXScale="0.5" android:toXScale="3.0"
@@ -175,6 +176,7 @@ Registeration Number : 212221220055
         android:startOffset="5000"
         android:toDegrees="0" />
 </set>
+
 ```
 ## MOVE.XML
 ```
@@ -289,13 +291,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-
-![image](https://github.com/SyedJaveed786/animation/assets/106874713/c838b95d-3130-4ec7-b2be-0341098f7c3a)
+![325470538-66e26b35-acc9-45b2-bee9-049aa0348f0b](https://github.com/yuvaraj-csk/animation/assets/134052574/a7d4d9fd-d4e2-44d3-9388-aae1ccb980c1)
 
 
 
 ## RESULT
+Thus, a Simple Android Application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
 
-Thus, a Simple Android Application to add animations to
-ImageView,Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and
-executed successfully.
